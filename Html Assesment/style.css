@@ -1,0 +1,54 @@
+h1{
+    color :black
+    text-align: center;
+    font: size 20px;
+}
+body {
+    font-family: system-ui, sans-serif;
+    color: #333;
+  }
+  h1{
+    text-align: center;
+  }
+  
+body{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+  .box{
+ width: 900px;
+ float:right;
+ border: 1px solid black;
+}
+.box ul li{
+    width: 900px;
+ float:left;
+ margin:10px,auto ;
+ text-align: center;
+ font-size: large;
+ color: black;
+
+}
+ .box ul li a{
+     text-decoration: none;
+     color:dark blue;
+
+ }
+  .box ul li :hover{
+      background-color: green;
+  }
+  
+  *{
+      margin: 0;
+      padding: 0;
+   }
+   body{
+       background-image: url(https://blog-guru.net/wp-content/uploads/2015/11/6-Best-South-Indian-Food.jpg);
+       background-size: cover;
+   }
+   p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    color: black;
+}
+   
